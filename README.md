@@ -29,11 +29,11 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/fedesorian
 
 In this repository, we have conducted analysis and predictions using the Random Forest classifier. The following steps were performed:
 
--**Data Preprocessing**: The dataset was preprocessed to handle missing values and encode categorical features. Numerical features were also scaled for optimal performance of the machine learning model.
--**Model Training**: A Random Forest classifier was trained on the preprocessed dataset.
--**Model Evaluation**: The trained model was evaluated using cross-validation and performance metrics such as accuracy, recall, precision, and F1 score.
--**Predictions**: Predictions were made on the test set using the trained Random Forest model achieving promising results.
--**Feature Importance**: Feature importances were extracted from the trained model to identify the most influential features in predicting heart disease.
+- **Data Preprocessing**: The dataset was preprocessed to handle missing values and encode categorical features. Numerical features were also scaled for optimal performance of the machine learning model.
+- **Model Training**: A Random Forest classifier was trained on the preprocessed dataset.
+- **Model Evaluation**: The trained model was evaluated using cross-validation and performance metrics such as accuracy, recall, precision, and F1 score.
+- **Predictions**: Predictions were made on the test set using the trained Random Forest model achieving promising results.
+- **Feature Importance**: Feature importances were extracted from the trained model to identify the most influential features in predicting heart disease.
 
 
 ## For future improvements
